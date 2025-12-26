@@ -34,3 +34,8 @@ estão detalhadas no PDF disponível na pasta `documentacao/`.
 - Criação de hubs logísticos regionais
 - Incentivos para entrega expressa
 - Monitoramento contínuo de SLA vs Conversão
+
+##Conclusão
+Os dados mostram que o prazo de entrega é um fator decisivo na conversão.
+Regiões com SLA acima de 3 dias apresentaram queda imediata de performance,
+reforçando a necessidade de otimização logística.
