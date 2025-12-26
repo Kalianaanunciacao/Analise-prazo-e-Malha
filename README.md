@@ -2,7 +2,7 @@
 
 ##  Objetivo
 Analisar o impacto do prazo de entrega na taxa de conversão de clientes,
-identificando gargalos logísticos e oportunidades de otimização da malha.
+identificando pontos críticos logísticos e oportunidades de otimização da malha.
 
 ## Principais Insights
 - Alta visualização e baixa conversão em Salvador e Florianópolis
