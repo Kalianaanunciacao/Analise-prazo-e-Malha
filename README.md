@@ -10,7 +10,7 @@ identificando pontos críticos logísticos e oportunidades de otimização da ma
 - Abandono de compra quando o prazo ultrapassa 3 dias
 - Modal econômico com SLA elevado apresentou maior impacto negativo
 
-## Dashboard Power BI
+## Dashboard Interativo – Power BI
 Foi desenvolvido um dashboard interativo para acompanhamento dos indicadores:
 - Taxa de conversão por região
 - SLA médio por semana
